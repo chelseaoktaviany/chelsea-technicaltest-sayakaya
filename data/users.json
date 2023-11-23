@@ -1,0 +1,16 @@
+[
+  {
+    "userId": 0,
+    "email": "johndoe@email.com",
+    "isVerifiedStatus": true,
+    "birthDate": "1973-12-12",
+    "isBirthday": false
+  },
+  {
+    "userId": 1,
+    "email": "alexadoe@email.com",
+    "isVerifiedStatus": true,
+    "birthDate": "1990-11-21",
+    "isBirthday": true
+  }
+]
